@@ -25,6 +25,16 @@ const styles = StyleSheet.create({
     gap: 5,
     borderRadius: 10,
     padding: 10,
+
+    //shadows
+    shadowColor: "#000000",
+    shadowOffset: {
+      width: 0,
+      height: 3,
+    },
+    shadowOpacity: 0.17,
+    shadowRadius: 3.05,
+    elevation: 4,
   },
   subValue: {
     //Capitalizes first letter
