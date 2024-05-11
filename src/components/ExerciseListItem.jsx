@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
     elevation: 4,
   },
   subValue: {
-    //Capitalizes first letter
+    //Capitalize first letter
     textTransform: "capitalize",
   },
 });
